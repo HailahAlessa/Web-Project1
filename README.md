@@ -1,10 +1,10 @@
 # Web-Project1
 
-1. Overview of the website:
+-Overview of the website:
 
 Teaching sign language to children website is a website for teaching children sign language in an easy, fun, and attractive way. The site targets children, as they constitute the largest percentage of the site’s targets. The site has a simple and colorful interface that attracts its users. When entering the site, four main sections appear, each of which represents a topic in sign language, through which the child learns in a fun, interactive way. The first section focuses on teaching numbers in sign language, the second section on teaching colors in sign language, and the third section on teaching letters in sign language. The final section is about teaching greetings in sign language.
 
-2. Goals of website:
+-Goals of website:
    
 The site focuses on several goals, including:
 1. Teaching children sign language in a fun and loving way.
@@ -12,7 +12,7 @@ The site focuses on several goals, including:
 3. The child is able to understand topics and apply them in sign language.
     
 
-3. Some screenshots:
+-Some screenshots:
 
 •	Home page:
 
@@ -48,7 +48,7 @@ The site focuses on several goals, including:
 <img width="488" alt="image" src="https://github.com/HailahAlessa/Web-Project1/assets/149419275/c8027ecc-dd0a-423c-8d92-fe7be84ea45a">
 
 
-4. Underlying technologies:
+-Underlying technologies:
 In our application we used a HTML language, CSS, JavaScript, and Node with Express libraries, and stored data in a MongoDB. 
 
 User Interaction: a flow chart:
