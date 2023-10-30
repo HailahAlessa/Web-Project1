@@ -1,0 +1,91 @@
+.display-middle{
+    position:absolute;
+    top:85%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    -ms-transform:translate(-50%,-50%)}
+    
+.text{
+    position: fixed;
+    top: 650px;
+    left: 350px;
+    z-index: 3;
+}
+
+.text-back{
+    color: rgb(133, 133, 133);
+    border-width: 4px;
+    border-style:dotted;
+    border-color: rgb(31, 55, 177);
+    margin: 10px;
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+    font-family:Bodoni MT Black;
+    font-size: large;
+
+}
+
+
+
+body {font-family:Bodoni MT Black}
+
+
+
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: rgb(159, 177, 200);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+.p{
+  text-align: center; 
+  text-indent: 70px; 
+  font-size: 30px;
+  font-family:Bodoni MT Black
+  }
+  
+
+
+
+
+  
+
+
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+    background-color: white;
+  }
+  
+  /* Full-width input fields */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Overwrite default styles of hr */
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  
